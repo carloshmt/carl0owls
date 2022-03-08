@@ -11,7 +11,10 @@
 </div>
  
  <br>
- 
+  🎓 Formado Análise e Desenvolvimento de Sistemas <br>
+  🌱 Se aprofundando em HTML e CSS <br>
+  😎 Querendo ser front-ender
+  
   ### Me encontre também nas redes abaixo!
  
 <div> 
